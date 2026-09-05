@@ -1,7 +1,14 @@
 {
-  "name": "Your Name",
-  "alias": "Your Spider-Alias",
-  "skills": ["Skill One", "Skill Two", "Skill Three"],
-  "suitColor": "#E62429",
-  "githubUsername": "your-github-username"
+  "name": "Aditya",
+  "alias": "goblin",
+  "skills": [
+    "Web Dev",
+    "Python",
+    "GitHub Wizard",
+    "Bug Hunter",
+    "UI/UX",
+    "Coffee Survivor"
+  ],
+  "suitColor": "#ff1738",
+  "githubUsername": "AdityaBramhankar"
 }
